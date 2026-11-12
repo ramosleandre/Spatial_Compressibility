@@ -3,3 +3,4 @@ first_draft/*
 .venv/*
 outputs/bottleneck/G/*
 outputs/bottleneck/ep*/G/*
+outputs/bottleneck/G_plateau*/*
